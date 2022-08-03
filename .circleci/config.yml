@@ -165,9 +165,6 @@ workflows:
   say-hello-workflow1216:
     jobs:
       - say-hello
-  say-hello-workflow1216:
-    jobs:
-      - say-hello
   say-hello-workflow1217:
     jobs:
       - say-hello
